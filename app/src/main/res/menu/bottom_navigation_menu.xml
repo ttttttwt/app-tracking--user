@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/home_fill0_wght400_grad0_opsz48"
+        android:title="Home"/>
+
+    <item
+        android:id="@+id/run"
+        android:icon="@drawable/radio_button_checked_fill0_wght400_grad0_opsz48"
+        android:title="Run"/>
+
+    <item
+        android:id="@+id/statistical"
+        android:icon="@drawable/baseline_content_paste_24"
+        android:title="statistical"/>
+
+    <item
+        android:id="@+id/setting_menu"
+        android:icon="@drawable/settings_fill0_wght400_grad0_opsz48"
+        android:title="Setting"/>
+
+</menu>
